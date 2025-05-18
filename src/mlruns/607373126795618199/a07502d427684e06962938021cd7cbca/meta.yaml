@@ -1,0 +1,15 @@
+artifact_uri: /home/robdres/practica2_herramientas/src/mlruns/607373126795618199/a07502d427684e06962938021cd7cbca/artifacts
+end_time: 1747577894753
+entry_point_name: ''
+experiment_id: '607373126795618199'
+lifecycle_stage: active
+run_id: a07502d427684e06962938021cd7cbca
+run_name: luminous-loon-783
+run_uuid: a07502d427684e06962938021cd7cbca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747577892266
+status: 3
+tags: []
+user_id: robdres

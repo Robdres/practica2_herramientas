@@ -1,0 +1,15 @@
+artifact_uri: file:///home/robdres/practica2_herramientas/src/app/mlruns/564062028703152968/59a579249f4c47298f6f317aa34cf78b/artifacts
+end_time: 1747584042719
+entry_point_name: ''
+experiment_id: '564062028703152968'
+lifecycle_stage: active
+run_id: 59a579249f4c47298f6f317aa34cf78b
+run_name: stately-elk-683
+run_uuid: 59a579249f4c47298f6f317aa34cf78b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747584040210
+status: 3
+tags: []
+user_id: robdres

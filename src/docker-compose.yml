@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  mlflow:
+    image: ghcr.io/mlflow/mlflow:v2.11.1
+    ports:
+      - "9090:5000"
+    volumes:
+      - ./mlruns:/mlflow/mlruns
+    environment:
+      - MLFLOW_DEFAULT_ARTIFACT_ROOT=/mlflow/mlruns
+    command: >
+      mlflow server
+      --default-artifact-root /mlflow/mlruns
+      --host 0.0.0.0
+
+  flaskapp:
+    build: ./app
+    ports:
+      - "8000:8000"
+    depends_on:
+      - mlflow
+    environment:
+      - MLFLOW_TRACKING_URI=http://mlflow:5000

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/robdres/practica2_herramientas/src/app/mlruns/564062028703152968/eae538f70d7549c9a3d040f9647bdea3/artifacts
+end_time: 1747584557926
+entry_point_name: ''
+experiment_id: '564062028703152968'
+lifecycle_stage: active
+run_id: eae538f70d7549c9a3d040f9647bdea3
+run_name: colorful-goat-374
+run_uuid: eae538f70d7549c9a3d040f9647bdea3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747584555575
+status: 3
+tags: []
+user_id: robdres

@@ -1,0 +1,6 @@
+artifact_location: file:///home/robdres/practica2_herramientas/src/app/mlruns/564062028703152968
+creation_time: 1747584039715
+experiment_id: '564062028703152968'
+last_update_time: 1747584039715
+lifecycle_stage: active
+name: randomforest_experiment
