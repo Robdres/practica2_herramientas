@@ -1,0 +1,15 @@
+artifact_uri: /home/robdres/practica2_herramientas/notebook/notebook/mlruns/650788790752079280/3aae6461df7f4719972a706b65ee012c/artifacts
+end_time: 1747589403214
+entry_point_name: ''
+experiment_id: '650788790752079280'
+lifecycle_stage: active
+run_id: 3aae6461df7f4719972a706b65ee012c
+run_name: industrious-duck-941
+run_uuid: 3aae6461df7f4719972a706b65ee012c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747589401265
+status: 3
+tags: []
+user_id: robdres

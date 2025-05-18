@@ -1,0 +1,15 @@
+artifact_uri: /home/robdres/practica2_herramientas/notebook/notebook/mlruns/650788790752079280/90824275031e4f0a807e1886d66cd302/artifacts
+end_time: 1747589460273
+entry_point_name: ''
+experiment_id: '650788790752079280'
+lifecycle_stage: active
+run_id: 90824275031e4f0a807e1886d66cd302
+run_name: awesome-wolf-393
+run_uuid: 90824275031e4f0a807e1886d66cd302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747589458279
+status: 3
+tags: []
+user_id: robdres

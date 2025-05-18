@@ -1,0 +1,15 @@
+artifact_uri: /home/robdres/practica2_herramientas/notebook/notebook/mlruns/650788790752079280/5560ceb594ff498eb877688b7c223d23/artifacts
+end_time: 1747589380799
+entry_point_name: ''
+experiment_id: '650788790752079280'
+lifecycle_stage: active
+run_id: 5560ceb594ff498eb877688b7c223d23
+run_name: valuable-mouse-2
+run_uuid: 5560ceb594ff498eb877688b7c223d23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747589378829
+status: 3
+tags: []
+user_id: robdres

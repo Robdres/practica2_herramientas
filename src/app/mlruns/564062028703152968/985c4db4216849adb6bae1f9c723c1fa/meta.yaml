@@ -1,0 +1,15 @@
+artifact_uri: file:///home/robdres/practica2_herramientas/src/app/mlruns/564062028703152968/985c4db4216849adb6bae1f9c723c1fa/artifacts
+end_time: 1747589061472
+entry_point_name: ''
+experiment_id: '564062028703152968'
+lifecycle_stage: active
+run_id: 985c4db4216849adb6bae1f9c723c1fa
+run_name: efficient-ape-225
+run_uuid: 985c4db4216849adb6bae1f9c723c1fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747589059154
+status: 3
+tags: []
+user_id: robdres

@@ -50,8 +50,9 @@ app = Flask(__name__)
 @app.route("/predict", methods=["POST"])
 def predict():
     input_data = request.get_json()
-    print(input_data)
     features = pd.DataFrame([input_data])
+    global model
+    model = get_best_model()
     if not model:
         return jsonify({"prediction": "No hay modelos cargados, entrenar primero"})
     prediction = model.predict(features)
@@ -63,7 +64,6 @@ def train():
         params = request.get_json()
         n_estimators = params.get("n_estimators", 100)
         max_depth = params.get("max_depth", 3)
-
 
         # Trigger training script
         subprocess.run(["python3", "train.py", str(n_estimators), str(max_depth)], check=True)

@@ -1,0 +1,15 @@
+artifact_uri: /home/robdres/practica2_herramientas/notebook/notebook/mlruns/956727178710492047/3ee6068147ad47449c65aef63df9a2f7/artifacts
+end_time: 1747589276001
+entry_point_name: ''
+experiment_id: '956727178710492047'
+lifecycle_stage: active
+run_id: 3ee6068147ad47449c65aef63df9a2f7
+run_name: handsome-mule-652
+run_uuid: 3ee6068147ad47449c65aef63df9a2f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747589273578
+status: 3
+tags: []
+user_id: robdres

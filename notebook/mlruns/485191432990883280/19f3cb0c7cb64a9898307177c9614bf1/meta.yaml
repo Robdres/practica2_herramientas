@@ -1,0 +1,15 @@
+artifact_uri: /home/robdres/practica2_herramientas/notebook/mlruns/485191432990883280/19f3cb0c7cb64a9898307177c9614bf1/artifacts
+end_time: 1747589512235
+entry_point_name: ''
+experiment_id: '485191432990883280'
+lifecycle_stage: active
+run_id: 19f3cb0c7cb64a9898307177c9614bf1
+run_name: loud-crane-67
+run_uuid: 19f3cb0c7cb64a9898307177c9614bf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747589510257
+status: 3
+tags: []
+user_id: robdres

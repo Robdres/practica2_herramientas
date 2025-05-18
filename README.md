@@ -6,8 +6,13 @@ Los datos los puedes encontrar en https://www.kaggle.com/datasets/fedesoriano/he
 
 # Version simplificada en un notebook
 Puedes encontrar la version de publicación de datos en mlflow dentro del notebook
-[NOTEBOOK](src/main.ipynb)
-es un minimo uso de mlflow
+[NOTEBOOK](notebook/main.ipynb)
+es un minimo uso de mlflow.
+
+Hay que instalar dependencias con
+```
+pip install --no-cache-dir -r notebook/requirements.txt
+```
 
 # Correr con Docker
 La mejor forma de correr es usando Dokcer, todo lo puedes hacer desde el path src
@@ -51,8 +56,5 @@ mlflow server --default-artifact-root ./mlruns --host 0.0.0.0 --port 9090
 python3 main.py
 ```
 
-Estos se pueden acceder en el host localhost
+Estos se pueden acceder en el host localhost en los ports
 
-# Notas
-Es posible hacer uso de un enviroment con todo instalado sin hacer uso de pip
-haciendo source del env en el directorio
